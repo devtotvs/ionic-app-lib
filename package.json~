@@ -4,6 +4,16 @@
   "description": "A library for creating and developing THF Mobile Framework apps.",
   "homepage": "https://thf.totvs.com.br/",
   "main": "index.js",
+  "keywords": [
+    // "ionic",
+    // "ionic framework",
+    // "ionicframework",
+    // "mobile",
+    // "app",
+    // "hybrid",
+    // "cordova",
+    // "phonegap"
+  ],
   "license": "MIT",
   "dependencies": {
     "adm-zip": "0.4.7",
